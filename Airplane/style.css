@@ -1,0 +1,25 @@
+		#ocean{
+			background-image: url('ocean.jpg');
+			width: 900px;
+			height: 700px;
+		}
+		.player{
+			position: absolute;
+			background-image: url('pik.png');
+			width: 96px;
+			height: 96px;
+			
+		}
+		.enemy{
+			position: absolute;
+			background-image: url('zap.png');
+			width: 97px;
+			height: 96px;
+			
+		}
+		.missiles{
+			position: absolute;
+			background-image: url('piBeam.png');
+			width: 59px;
+			height: 93px;
+		}
